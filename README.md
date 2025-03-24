@@ -7,6 +7,7 @@
 I'm Rebecca Okine, a Cybersecurity Enthusiast passionate about Network Security and Cloud Security. Currently, I am expanding my expertise in securing digital infrastructures, analyzing threats, and implementing security measures to protect organizations from cyber risks.
 
 My Skills & Interests
+
 Network Security: Firewalls, VPNs, IDS/IPS
 
 Cloud Security: AWS (learning IAM, security best practices)
