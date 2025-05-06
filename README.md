@@ -28,7 +28,7 @@ I build and break things to understand how security works in real-world environm
 I care about building systems that are both secure and inclusive. For me, that looks like:
 
 - Teaching what I learn with clarity, not jargon  
-- Supporting mission-driven orgs with secure infrastructure  
+- Supporting mission-driven organisations with secure infrastructure  
 - Creating space for women and underrepresented folks in security  
 - Building systems that are safe, inclusive, and resilient  
 - Staying curious, intentional, and open to feedback 
