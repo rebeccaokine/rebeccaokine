@@ -4,7 +4,7 @@
 
 ---
 
-## 👩🏾‍💻 About Me
+### 👩🏾‍💻 About Me
 
 I'm Rebecca, a cybersecurity analyst apprentice with a focus on cloud infrastructure, network defense, and blue team operations.
 
@@ -13,7 +13,7 @@ I build and break things to understand how security works in real-world environm
 
 ---
 
-## 💡 What I’m Learning
+### 💡 What I’m Learning
 
 - Securing AWS services (IAM, EC2, S3, VPC, CloudTrail, GuardDuty)  
 - Practicing detection and response workflows in simulated SOC labs  
@@ -23,7 +23,7 @@ I build and break things to understand how security works in real-world environm
 
 ---
 
-## 🎯 What Matters to Me
+### 🎯 What Matters to Me
 
 I care about building systems that are both secure and inclusive. For me, that looks like:
 
