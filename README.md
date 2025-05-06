@@ -1,18 +1,45 @@
-# Hi, I'm Rebecca 👋🏾
+<h1 align="center">Hi, I'm Rebecca 👋🏾</h1>
+<h3 align="center" style="color:#9360fb;">Cybersecurity Analyst Apprentice · Cloud and Network Security
+</h3>
 
-I'm a cybersecurity analyst in training with a focus on **cloud and network security**.  
-Currently building hands-on experience across AWS, SOC operations, and network fundamentals while preparing for the **CCNA**.
+---
+
+## 👩🏾‍💻 About Me
+
+I'm Rebecca, a cybersecurity analyst apprentice with a focus on cloud infrastructure, network defense, and blue team operations.
+
+I build and break things to understand how security works in real-world environments. Right now, I’m deepening my skills through AWS labs, preparing for the CCNA, and practicing incident response techniques. I document what I learn not just for myself, but to make the path clearer for others stepping into this field.
 
 
-### 🔐 What I'm Working On
-- Strengthening AWS skills (IAM, EC2, VPC, S3)
-- Practicing threat detection and incident response
-- Learning infrastructure as code (Terraform basics)
-- Deepening networking knowledge (routing, switching, subnetting)
+---
 
-<div align="center">
+## 💡 What I’m Learning
+
+- Securing AWS services (IAM, EC2, S3, VPC, CloudTrail, GuardDuty)  
+- Practicing detection and response workflows in simulated SOC labs  
+- Writing Infrastructure as Code with Terraform (early-stage projects)  
+- Building up networking skills: routing, switching, subnetting  
+- Analyzing traffic and logs using CLI tools and packet capture labs 
+
+---
+
+## 🎯 What Matters to Me
+
+I care about building systems that are both secure and inclusive. For me, that looks like:
+
+- Teaching what I learn with clarity, not jargon  
+- Supporting mission-driven orgs with secure infrastructure  
+- Creating space for women and underrepresented folks in security  
+- Building systems that are safe, inclusive, and resilient  
+- Staying curious, intentional, and open to feedback 
+
+---
+
+> 💜 Let’s connect if you're working in cloud security, learning by doing, or building tools that make tech more accessible.
 
 <br>
+
+<div align="center">
   
 ### 🛠️ Languages and Tools
 
@@ -26,6 +53,8 @@ Currently building hands-on experience across AWS, SOC operations, and network f
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
+</div>
+
 <div align="center">
   
 <br>
